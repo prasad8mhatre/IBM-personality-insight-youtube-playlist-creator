@@ -35,3 +35,5 @@ API Reference:-
 2. localhost:5000/createPlaylistFromPreferences (Fetch videos as per genre's and create a playlist and add those fetched videos into playlist)
 3. localhost:5000/getMyPreferencePlaylist -  Get list of Playlist of user with matching genre's from Preferences JSON with score > 0 
 4. localhost:5000/deleteMyPreferencePlaylist - Delete Preference Playlist
+
+![architecture](youtubeplaylistfetcher.png)
