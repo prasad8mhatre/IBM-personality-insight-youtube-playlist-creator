@@ -6,6 +6,8 @@ Flow:
 3. return back the playlist to user.
 
 
+![architecture](youtubeplaylistfetcher.png)
+
 Setup steps:-
 1. Python 2.7 must be installed, python --version
 2. PIP must be installed
@@ -36,4 +38,3 @@ API Reference:-
 3. localhost:5000/getMyPreferencePlaylist -  Get list of Playlist of user with matching genre's from Preferences JSON with score > 0 
 4. localhost:5000/deleteMyPreferencePlaylist - Delete Preference Playlist
 
-![architecture](youtubeplaylistfetcher.png)
