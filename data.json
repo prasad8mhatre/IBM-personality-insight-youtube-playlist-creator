@@ -1,0 +1,51 @@
+{
+    "consumption_preference_category_id": "consumption_preferences_music",
+    "name": "Music Preferences",
+    "consumption_preferences": [
+        {
+            "consumption_preference_id": "consumption_preferences_music_rap",
+            "name": "Likely to like rap music",
+            "score": 1
+        },
+        {
+            "consumption_preference_id": "consumption_preferences_music_country",
+            "name": "Likely to like country music",
+            "score": 1
+        },
+        {
+            "consumption_preference_id": "consumption_preferences_music_r_b",
+            "name": "Likely to like R&B music",
+            "score": 1
+        },
+        {
+            "consumption_preference_id": "consumption_preferences_music_hip_hop",
+            "name": "Likely to like hip hop music",
+            "score": 1
+        },
+        {
+            "consumption_preference_id": "consumption_preferences_music_live_event",
+            "name": "Likely to attend live musical events",
+            "score": 0
+        },
+        {
+            "consumption_preference_id": "consumption_preferences_music_playing",
+            "name": "Likely to have experience playing music",
+            "score": 0
+        },
+        {
+            "consumption_preference_id": "consumption_preferences_music_latin",
+            "name": "Likely to like Latin music",
+            "score": 1
+        },
+        {
+            "consumption_preference_id": "consumption_preferences_music_rock",
+            "name": "Likely to like rock music",
+            "score": 0
+        },
+        {
+            "consumption_preference_id": "consumption_preferences_music_classical",
+            "name": "Likely to like classical music",
+            "score": 0
+        }
+    ]
+}
